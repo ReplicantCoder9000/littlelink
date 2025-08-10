@@ -631,3 +631,16 @@
 	--button-background:#0B5CFF;
   --button-border:1px solid #FFFFFF;
 }
+
+/* Fanvue */
+.button-fanvue {
+	--button-text:#ffffff;
+	background-image:linear-gradient(to bottom,#F48A6C,#FD1D5D);
+}
+
+/* Throne (Placeholder) */
+.button-throne {
+	--button-text:#ffffff;
+	--button-background:#212121;
+	--button-border:1px solid #ffffff;
+}
